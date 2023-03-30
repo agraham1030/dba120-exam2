@@ -29,5 +29,5 @@ Using AI to create a database
 
 ## Populate tables with data
 
-![images](images/populate1.png)
-![images](images/populate2.png)
+![images](images/populate-data1.png)
+![images](images/populate-data2.png)
